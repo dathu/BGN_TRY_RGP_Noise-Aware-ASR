@@ -43,7 +43,7 @@ The overall pipeline consists of:
 
 ## 📷 Refer to the architecture diagram in the repository for the full pipeline.
 
-![Noise-Aware ASR Architecture](ASR_architecture.png)
+![Noise-Aware ASR Architecture](ASR_Architecture.png)
 
 ---
 
